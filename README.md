@@ -2,16 +2,14 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Muhammad Qasim Ayub`
+- **Roll Number:** `27100168`
 
 ## References and Resources
-
-List any resources used here, or simply put `N/A` if not applicable.
+`N/A`
 
 ## Verbal Collaboration
 
 | Student Name | CCID     |
 | ------------ | -------- |
-| `<example1>` | `<CCID>` |
-| `<example2>` | `<CCID>` |
+| `N/A`        | `N/A`    |
